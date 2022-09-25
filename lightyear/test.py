@@ -30,3 +30,4 @@ while loop:
     client.WriteData(data)
 
     
+print(data)
